@@ -1,0 +1,7 @@
+# Write your redirects here
+# Patterns: /{shorten url} {full url} 302
+
+/instagram https://instagram.com/jeiwtem?igshid=1lnuwaq7vyr2b
+
+# Redirect any unmatched URLs to other default site
+/* https://blog.sahatsawat.com 302
